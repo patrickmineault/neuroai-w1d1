@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+torch
+ipykernel
+matplotlib
+tensorboard
+tensorboardX
+tqdm
+gradio
+transformers
